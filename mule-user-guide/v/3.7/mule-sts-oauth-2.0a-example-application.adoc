@@ -161,7 +161,7 @@ image:ask_permission.png[ask_permission]
 . Tweetbook grants permission to access the protected resource by providing a token. Within the token, it defines the scope (i.e. specific data) which Bookstore may access. In this case, the scope is read-only access to the user’s profile and virtual bookshelf.
 +
 image:heres_your_token.png[heres_your_token]
-. Bookstore calls Tweetbook’s resource server to request the user’s protected resource. It offers the token Tweetbook provided as both proof of its identity and its authorization to acquire the resource.
+. Bookstore calls Tweetbook’s resource server to request the user’s protected resource. It offers the token Tweetbook provided as the resource owners's authorization to acquire the resource on its behalf.
 +
 image:ask_assets.png[ask_assets]
 +
