@@ -72,7 +72,7 @@ Create the following simple flow. It includes an `http:inbound-endpoint` with d
 
 == Adding a Unit Test
 
-. Now it's time to add a unit test. To do so, right-click your project’s `src/main/java` folder, then select *New > Class*.
+. Now it's time to add a unit test. To do so, right-click your project’s `src/test/java` folder, then select *New > Class*.
 +
 image:Newclass.png[Newclass]
 
