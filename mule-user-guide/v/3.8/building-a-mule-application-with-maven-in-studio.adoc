@@ -124,7 +124,7 @@ image:openpom.png[openpom]
 <dependency>
   <groupId>org.codehaus.groovy</groupId>
   <artifactId>groovy-all</artifactId>
-  <version>2.2.1</version>
+  <version>2.4.4</version>
   <scope>test</scope>
 </dependency>
 <dependency>
